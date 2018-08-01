@@ -3,7 +3,7 @@
 /*                                              */
 /* Program 1: Hellow World and a Bit More       */
 /*                                              */
-/* Approximate completion time:   
+/* Approximate completion time:   8 minutes     */
 /************************************************/
 #include<stdio.h>
 
