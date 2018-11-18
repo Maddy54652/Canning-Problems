@@ -1,7 +1,7 @@
 /************************************************/
 /* Programmer: Madalyn Henderson                */
 /*                                              */
-/* Program 1: Hellow World                      */
+/* Program 1: Hello  World                      */
 /*                                              */
 /* Approximate completion time:   3 minutes     */
 /************************************************/
