@@ -13,6 +13,7 @@ Problem 7-November 17, 2018
 Problem 8-Januray 26, 2019
 Problem 9-March 30, 2019
 Problem 10-June 18, 2019
+Problem 11-January 9, 2020
 
 New Set Problems Completed so far:
 Problem 1-August 1, 2018
