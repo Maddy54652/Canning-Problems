@@ -1,8 +1,8 @@
-# Canning-Problems
+## Canning-Problems
 Problems in C based on Jim Canning's C Programming Problems
 </br></br>
 
-## Original Problems Completed so far:
+### Original Problems Completed so far:
 
 Problem 1-August 2, 2018</br>
 Problem 2-August 3, 2018</br>
@@ -18,7 +18,7 @@ Problem 11-January 9, 2020</br>
 Problem 12-January 12, 2020</br>
 
 
-## New Set Completed so far:
+### New Set Completed so far:
 
 Problem 1-August 1, 2018</br>
 Problem 2-August 2, 2018</br>
