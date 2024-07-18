@@ -21,6 +21,7 @@ Problem 14-August 26, 2021<br/>
 Problem 15-July 21, 2022<br/>
 Problem 16-July 26, 2022<br/>
 Problem 17-April 3, 2023<br/>
+Problem 18-July 18,2024<br/>
 
 
 ### New Set Completed so far:
