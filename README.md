@@ -23,6 +23,7 @@ Problem 16-July 26, 2022<br/>
 Problem 17-April 3, 2023<br/>
 Problem 18-July 18,2024<br/>
 Problem 19-July 24,2024<br/>
+Problem 20-July 25,2024<br/>
 
 
 ### New Set Completed so far:
